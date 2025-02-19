@@ -2,5 +2,9 @@
     {
         "package": "psborrow2",
         "url": "https://github.com/Genentech/psborrow2"
-    }    
+    },
+    {
+        "package": "BayesERtools",
+        "url": "https://github.com/Genentech/BayesERtools"
+    }
 ]
